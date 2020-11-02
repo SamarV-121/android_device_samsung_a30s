@@ -1,7 +1,7 @@
-DEVICE_PATH := device/samsung/a30
+DEVICE_PATH := device/samsung/a30s
 
 # Kernel
-TARGET_KERNEL_CONFIG := a30_defconfig
+TARGET_KERNEL_CONFIG := a30s_defconfig
 
 # Inherit common board flags
 include device/samsung/universal7904-common/BoardConfigCommon.mk
